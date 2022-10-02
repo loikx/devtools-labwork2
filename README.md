@@ -7,7 +7,3 @@
 Задача:
 В репозитории партнера создать ветки по модели GitFlow (с ветками features, release, develop. hotfix), оформить ReadMe
 Обязательно наличие тегов, submodules, LFS
-
-
-
-Кракен
